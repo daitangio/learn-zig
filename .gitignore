@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+zig-linux-x86_64-0.9.0-dev.950+93c6e31cf
+zig-cache
+zig-out
